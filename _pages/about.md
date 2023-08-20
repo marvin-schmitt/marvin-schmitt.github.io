@@ -17,12 +17,19 @@ I am a PhD researcher in formal semantics/pragmatics. As a semanticist/pragmatic
 
 My research and interests: TL;DR
 ======
-Conversation Analysis, Formal Semantics/Pragmatics, Logic, Mathematics, _okay_, Philosophy of Linguistics, Speech Act theory
+Conversation Analysis, Formal Semantics/Pragmatics, Logic, Mathematics, _okay_, Philosophy of Language, Philosophy of Linguistics, Speech Act theory
 
 My research and interests
 ======
 
-My research interests lie in particular with (face-to-face) conversation. Conversations are particularly interesting to linguistics, but also formal semantics/pragmatics: First, face-to-face conversations are the basic locus of language use and acquisition. Language is a primary tool in interaction therefore, but it is also the primary object of investigation of linguists. It is then natural to expect that we can learn about the nature of human languges when studying them in their primary context of use. Second, conversation is interaction. Therefore, there are sociological aspects to conversation. Third, there are cognitive and neural aspects of conversing, for much of conversing is acting on interpretations of what other do in using language.
+My research interests lie in particular with (face-to-face) conversation. The human conduct of conversing is of interest to me as a formal semanticist/pragamticist for different reasons. Here are two big points from that list:
+
+1. Conversations are interactions between social agents. It is interaction directed at others and self. This interaction is constrained by behavioral norms which shape the conduct of the interactants and thereby also the structure of the conversation. Understanding the rules of the interaction therefore helps us understanding the structural properties of conversations. This is of interest to pragmatics.
+2. Conversations are not just instances of interactions between social agents. These agents are cognitive agents. This is crucial, for most of conversation is action based on interpretation, and interpretation is a complicated cognitive process. Of particular interest to both semantics and pragmatics are aspects of interpretation concerned with meaning. Besides, interpretation as a cognitive process is information processing, and this makes interpretation a phenomenon interesting for logic, mathematics, and computer science.
+
+In a slogan _The study of conversation is the study of grammar in the context of cognition and social interaction_
+
+In my research I am combining conversation analysis, logic, mathematics, and formal semantics/pragmatics to study conversational phenomena such as the meaning and use of particles. This approach is highlighted in my PhD thesis in which I am investigating the meaning and use of the particle _okay_ in spoken German.
 
 
 
