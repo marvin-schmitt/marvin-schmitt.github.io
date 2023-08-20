@@ -14,13 +14,12 @@ About me
 ======
 I am a PhD researcher in formal semantics/pragmatics. As a semanticist/pragmaticist I am studying natural language meaning. And as a formal semanticist/pragmaticist I am developing formal theories of natural language meaning. The underlying idea of formal semantics/pragmatics is the same as in any other field where formal research is conducted: We use mathematics to make precise and thus testable our theories of some phenomenon. In my case, the phenomenon is meaning.
 
-
-My research and interests: TL;DR
-======
-Conversation Analysis, Formal Semantics/Pragmatics, Logic, Mathematics, _okay_, Philosophy of Language, Philosophy of Linguistics, Speech Act theory
-
 My research and interests
 ======
+
+TL;DR
+------
+Conversation Analysis, Formal Semantics/Pragmatics, Logic, Mathematics, _okay_, Philosophy of Language, Philosophy of Linguistics, Speech Act theory
 
 Research
 ------
