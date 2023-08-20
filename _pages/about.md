@@ -22,16 +22,21 @@ Conversation Analysis, Formal Semantics/Pragmatics, Logic, Mathematics, _okay_, 
 My research and interests
 ======
 
-My research interests lie in particular with (face-to-face) conversation. The human conduct of conversing is of interest to me as a formal semanticist/pragamticist for different reasons. Here are two big points from that list:
+My research revolves around studying meaning in (face-to-face) conversation. The human conduct of conversing is of interest to me as a formal semanticist/pragamticist for different reasons. Here are two big points from that list:
 
-1. Conversations are interactions between social agents. It is interaction directed at others and self. This interaction is constrained by behavioral norms which shape the conduct of the interactants and thereby also the structure of the conversation. Understanding the rules of the interaction therefore helps us understanding the structural properties of conversations. This is of interest to pragmatics.
-2. Conversations are not just instances of interactions between social agents. These agents are cognitive agents. This is crucial, for most of conversation is action based on interpretation, and interpretation is a complicated cognitive process. Of particular interest to both semantics and pragmatics are aspects of interpretation concerned with meaning. Besides, interpretation as a cognitive process is information processing, and this makes interpretation a phenomenon interesting for logic, mathematics, and computer science.
+1. Conversations are interactions between social agents. In conversations, _qua_ interaction, we are performing actions. These actions have also been called _speech acts_ and are a particular instance of meaning. Our utterances are not just taken to be flows of air, but they are understood as actions, such as asking a question, answering a question, all the way to declaring war and peace. The study of conversations helps us understanding how these meanings arise and how agents come to understand utterances in certain ways. This is a central topic of both conversation analysis and pragmatics. In the former tradition, this is called _action formation and ascription_ and in pragmatics, or _speech act theory_, this may be called _speech act generation and interpretation_. In the big picture, these topics are central to understanding human life as such, because speech acts are foundational to human societies. Human life is on the large scale symbolic interaction on the backdrop of intersubjectively shared symbolic systems which shape and reshape our indentities and understanding of ourselves and others. Our world is mostly a symbolic world.
+2. The first point already hints at another dimension, the cognivite underpinnings of social interaction. Social interaction is conduct based on interpretation, hence, information processing. Interpretation as a formal and cognitive process is central to formal semantics and pragmatics as both disciplines study meaning in relation to interpretation, which is understood as information processing. 
 
-In a slogan _The study of conversation is the study of grammar in the context of cognition and social interaction_
 
-In my research I am combining conversation analysis, logic, mathematics, and formal semantics/pragmatics to study conversational phenomena such as the meaning and use of particles. This approach is highlighted in my PhD thesis in which I am investigating the meaning and use of the particle _okay_ in spoken German.
 
-Hello world
+
+
+4. Conversations are not just instances of interactions between social agents. These agents are cognitive agents. This is crucial, for most of conversation is action based on interpretation, and interpretation is a complicated cognitive process. Of particular interest to both semantics and pragmatics are aspects of interpretation concerned with meaning. On an aside, interpretation as a cognitive process is information processing, and this makes interpretation a phenomenon interesting to logic, mathematics, and computer science.
+
+In a slogan _The linguistic study of conversation is the study of grammar in the context of cognition and social interaction_
+
+In my research I am combining conversation analysis, logic, mathematics, and formal semantics/pragmatics to study conversational phenomena such as the meaning and use of particles. I am valuing formal rigor and descriptive adequacy as scientific maxims. This approach is highlighted in my PhD thesis (in progress) in which I am investigating the meaning and use of the particle _okay_ in spoken German, for which see below.
+
 
 
 
