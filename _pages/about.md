@@ -8,11 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-# my text
-
 Welcome to my website!
 
-# This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+About me
+======
+I am a PhD researcher in formal semantics/pragmatics. As a semanticist/pragmaticist I am studying natural language meaning. And as a formal semanticist/pragmaticist I am developing formal theories of natural language meaning. The underlying idea of formal semantics/pragmatics is the same as in any other field where formal research is conducted: We use mathematics to make precise and thus testable our theories of some phenomenon. In my case, the phenomenon is meaning.
+
+I am currently working on my PhD Thesis which investigates the meaning and use of the particle _okay_ in spoken German. Here _meaning_ means what _okay_ itself contributes to the interpretation of an utterance, while _use_ refers to what it is we are doing when making an _okay_-utterance. This _doing_ also refers to an aspect of meaning, the so-called _illocutionary act_ (in other contexts, this is siomply called _(social) action_).
+
+
+
+ <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 A data-driven personal website
 ======
