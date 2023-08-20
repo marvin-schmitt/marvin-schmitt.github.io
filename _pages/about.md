@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website!
+Welcome to my website! (under construction)
 
 About me
 ======
@@ -22,22 +22,25 @@ Conversation Analysis, Formal Semantics/Pragmatics, Logic, Mathematics, _okay_, 
 My research and interests
 ======
 
-My research revolves around studying meaning in (face-to-face) conversation. The human conduct of conversing is of interest to me as a formal semanticist/pragamticist for different reasons. Here are two big points from that list:
+Research
+------
 
-1. Conversations are interactions between social agents. In conversations, _qua_ interaction, we are performing actions. These actions have also been called _speech acts_ and are a particular instance of meaning. Our utterances are not just taken to be flows of air, but they are understood as actions, such as asking a question, answering a question, all the way to declaring war and peace. The study of conversations helps us understanding how these meanings arise and how agents come to understand utterances in certain ways. This is a central topic of both conversation analysis and pragmatics. In the former tradition, this is called _action formation and ascription_ and in pragmatics, or _speech act theory_, this may be called _speech act generation and interpretation_. In the big picture, these topics are central to understanding human life as such, because speech acts are foundational to human societies. Human life is on the large scale symbolic interaction on the backdrop of intersubjectively shared symbolic systems which shape and reshape our indentities and understanding of ourselves and others. Our world is mostly a symbolic world.
-2. The first point already hints at another dimension, the cognivite underpinnings of social interaction. Social interaction is conduct based on interpretation, hence, information processing. Interpretation as a formal and cognitive process is central to formal semantics and pragmatics as both disciplines study meaning in relation to interpretation, which is understood as information processing. 
+My research revolves around studying meaning and interpretation in (face-to-face) conversation. This interest derives from the richness of inferential phenomena in conversation, but also from the fact that conversing is a fundamental aspect of human conduct and life. In conversations, _qua_ interaction, we are performing actions. These actions have also been called _speech acts_ and are a particular instance of meaning. Our utterances are not just taken to be flows of air, but they are understood as actions, such as asking a question, answering a question, all the way to declaring war and peace. The study of conversations helps us understanding how these meanings arise and how agents come to understand utterances in certain ways. This is a central topic of both conversation analysis and pragmatics. In the former tradition, this is called _action formation and ascription_ and in pragmatics, or _speech act theory_, this may be called _speech act generation and interpretation_. These topics highlight cognitive aspects of interaction relating to cognitive aspects of meaning, in particular, interpretation processes. Such processes concern processing of information on the level of the linguistic signal, but also reasoning about knowledge, intentions, plans in context. The stuyd of different reasoning and information processing task is also interesting from a logical and mathematical view point and should always accompany research in semantics and pragmatics. In the big picture, these topics are central to understanding human life as such, because speech acts are foundational to human societies and speech act made by means of speech rely on the meaning and interpretation of language. Human life, therefore, is largely symbolic interaction on the backdrop of intersubjectively shared symbolic systems which shape and reshape our indentities and understanding of ourselves, others, and the world. In turn, our identities, conduct, understanding of others and the world reshape these symbolic systems. _Our world is mostly a symbolic world in constant motion grounded in the computational powers of our brains._ 
 
+In my research I am combining conversation analysis, logic, mathematics, and formal semantics/pragmatics to study conversational phenomena such as the meaning and use of particles. I do this from a Marrian understanding of semantics and pragmatics, where these are computational theories, i.e., declarative theories of specific portions of the human mind. These theories are constraint by the properties of the human brain. I am valuing formal rigor and descriptive adequacy as scientific maxims. This approach is highlighted in my PhD thesis (in progress) in which I am investigating the meaning and use of the particle _okay_ in spoken German, for which see below.
 
+Interests
+------
 
+Within linguistics, my main interests are with conversational phenomena such as speech acts, common ground, turn-taking, organization of conversation, and the phenomenon of meaning in general. This is because many of these phenomena are _deep_. They are of interest to different disciplines. Both conversation and meaning are of interest to disciplines such as anthropology, linguistics, philosophy, psychology, and sociology. But they are also of interest to disciplines such as computer science, logic, and mathematics. Furthermore, conversation and meaning are _deep_ in that they have breath to them. Answers open up new questions and/or perspectives across the different disciplines. Given the above I also have interests in sociological theory.
 
+I am also interested into theoretical syntax, in particular into formalisms and their philosophical underpinnings, and theory of linguistics (with a focus on theoretical linguistics).
 
-4. Conversations are not just instances of interactions between social agents. These agents are cognitive agents. This is crucial, for most of conversation is action based on interpretation, and interpretation is a complicated cognitive process. Of particular interest to both semantics and pragmatics are aspects of interpretation concerned with meaning. On an aside, interpretation as a cognitive process is information processing, and this makes interpretation a phenomenon interesting to logic, mathematics, and computer science.
+Another field of interest is sociological theory (Bourdieu, Marx, Durkheim, Weber, Habermas, Garfinkel, etc.)
 
-In a slogan _The linguistic study of conversation is the study of grammar in the context of cognition and social interaction_
+I am generally interested in philosophy, particularly in theoretical philosophy and the philosophy of Immanuel Kant (which I used to read and study for countless hours during my undergraduta studies).
 
-In my research I am combining conversation analysis, logic, mathematics, and formal semantics/pragmatics to study conversational phenomena such as the meaning and use of particles. I am valuing formal rigor and descriptive adequacy as scientific maxims. This approach is highlighted in my PhD thesis (in progress) in which I am investigating the meaning and use of the particle _okay_ in spoken German, for which see below.
-
-
+I am generally interested in logic and mathematics. Currently I am studying Gibert Strang's _Introduction to Linear Algebra_. I am planning on doing a undergraduate degree in mathematics after my thesis (for professional and personal reasons). 
 
 
 My PhD thesis
