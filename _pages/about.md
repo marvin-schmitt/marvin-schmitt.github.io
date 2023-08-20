@@ -14,6 +14,14 @@ About me
 ======
 I am a PhD researcher in formal semantics/pragmatics. As a semanticist/pragmaticist I am studying natural language meaning. And as a formal semanticist/pragmaticist I am developing formal theories of natural language meaning. The underlying idea of formal semantics/pragmatics is the same as in any other field where formal research is conducted: We use mathematics to make precise and thus testable our theories of some phenomenon. In my case, the phenomenon is meaning.
 
+
+My research: TL;DR
+======
+Conversation Analysis, Formal Semantics/Pragmatics, Logic, _okay_, Philosophy of Linguistics, Speech Act theory
+
+My research:
+======
+
 I am currently working on my PhD Thesis which investigates the meaning and use of the particle _okay_ in spoken German. Here _meaning_ means what _okay_ itself contributes to the interpretation of an utterance, while _use_ refers to what it is we are doing when making an _okay_-utterance. This _doing_ also refers to an aspect of meaning, the so-called _illocutionary act_ (in other contexts, this is siomply called _(social) action_).
 
 
