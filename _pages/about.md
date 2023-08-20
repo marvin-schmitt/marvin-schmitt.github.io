@@ -15,18 +15,45 @@ About me
 I am a PhD researcher in formal semantics/pragmatics. As a semanticist/pragmaticist I am studying natural language meaning. And as a formal semanticist/pragmaticist I am developing formal theories of natural language meaning. The underlying idea of formal semantics/pragmatics is the same as in any other field where formal research is conducted: We use mathematics to make precise and thus testable our theories of some phenomenon. In my case, the phenomenon is meaning.
 
 
-My research: TL;DR
+My research and interests: TL;DR
 ======
-Conversation Analysis, Formal Semantics/Pragmatics, Logic, _okay_, Philosophy of Linguistics, Speech Act theory
+Conversation Analysis, Formal Semantics/Pragmatics, Logic, Mathematics, _okay_, Philosophy of Linguistics, Speech Act theory
 
-My research:
+My research and interests
 ======
 
-I am currently working on my PhD Thesis which investigates the meaning and use of the particle _okay_ in spoken German. Here _meaning_ means what _okay_ itself contributes to the interpretation of an utterance, while _use_ refers to what it is we are doing when making an _okay_-utterance. This _doing_ also refers to an aspect of meaning, the so-called _illocutionary act_ (in other contexts, this is siomply called _(social) action_).
+My research interests lie in particular with (face-to-face) conversation. Conversations are particularly interesting to linguistics, but also formal semantics/pragmatics. First, face-to-face conversations are the basic locus of language use and acquisition. Language is a primary tool in interactio0n therefore, but it is also the primary object of investigation of linguists. Second, conversation is interaction, thus display of behavior. As such there are cognitive aspects, but also sociological aspects to the study of conversation. 
+
+I am currently working on my PhD Thesis which investigates the meaning and use of the particle _okay_ in spoken German. Here _meaning_ means what _okay_ itself contributes to the interpretation of an utterance (this is also called _lexical meaning_), while _use_ refers to what it is we are doing when making an _okay_-utterance. This _doing_ also refers to an aspect of meaning, the so-called _illocutionary act_ (in other contexts, this is simply called _(social) action_).
 
 
 
- <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
+My PhD thesis
+======
+
+In a nutshell
+------
+
+I have conducted a conversation analtytic study of the video material of the Berlin-Map-Task Corpus (_BeMaTaC_) for investigating the use of the particle _okay_ in spoken German. I have identified different uses of _okay_ doing so, which are also attested in the literature, not just for German, but also for other languges, for instance American English and Swedish.
+
+The project
+------
+
+The investigation into the meaning and use of the particle _okay_ consists of different parts:
+
+1. Empirical investigation
+  1. Data collection
+  2. Data analysis
+2. Theoretical Foundations
+  1. Conversation Analysis and Formal semantics/pragmatics
+4. Formal modelling
+  1. 
+
+The empirical investigation is based on a conversation analytic study of the Berlin-Map-Task Corpus, short _BeMaTaC_. The formal modelling consists in the development of a formal model of speech acts and speech act interpretation, as well as 
+
+
+
+ <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). 
 
 A data-driven personal website
 ======
@@ -65,4 +92,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
