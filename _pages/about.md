@@ -13,6 +13,7 @@ Welcome to my website! (under construction)
 TL;DR
 ======
 Research: Conversation Analysis, Formal Semantics/Pragmatics, Logic, _okay_, Speech Act theory
+
 Interests: Mathematics, Philosophy of Language, Philosophy of Linguistics, Sociology
 
 About me
