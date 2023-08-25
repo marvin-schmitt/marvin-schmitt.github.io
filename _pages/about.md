@@ -10,18 +10,20 @@ redirect_from:
 
 Welcome to my website! (under construction)
 
+TL;DR
+======
+Conversation Analysis, Formal Semantics/Pragmatics, Logic, Mathematics, _okay_, Philosophy of Language, Philosophy of Linguistics, Speech Act theory
+
 About me
 ======
 I am a PhD researcher in formal semantics/pragmatics. As a semanticist/pragmaticist I am studying natural language meaning. And as a formal semanticist/pragmaticist I am developing formal theories of natural language meaning. The underlying idea of formal semantics/pragmatics is the same as in any other field where formal research is conducted: We use mathematics to make precise and thus testable our theories of some phenomenon. In my case, the phenomenon is meaning.
 
-When I am not working, I am most likely at the gym or eating food for two.
+Pronouns: he/him
+
+Outside from work, you will find me most likely at the gym or eating food for two persons. I also enjoy practicing metal and classical guitar.
 
 My research and interests
 ======
-
-TL;DR
-------
-Conversation Analysis, Formal Semantics/Pragmatics, Logic, Mathematics, _okay_, Philosophy of Language, Philosophy of Linguistics, Speech Act theory
 
 Research
 ------
