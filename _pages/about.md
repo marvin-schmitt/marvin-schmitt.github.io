@@ -12,7 +12,8 @@ Welcome to my website! (under construction)
 
 TL;DR
 ======
-Conversation Analysis, Formal Semantics/Pragmatics, Logic, Mathematics, _okay_, Philosophy of Language, Philosophy of Linguistics, Speech Act theory
+Research: Conversation Analysis, Formal Semantics/Pragmatics, Logic, _okay_, Speech Act theory
+Interests: Mathematics, Philosophy of Language, Philosophy of Linguistics
 
 About me
 ======
