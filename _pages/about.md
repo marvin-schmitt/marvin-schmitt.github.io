@@ -10,6 +10,10 @@ redirect_from:
 
 Welcome to my website! (under construction)
 
+News
+======
+Poster presentation at SuB28 in Bochum! For the poster check the entry in Talks!
+
 TL;DR
 ======
 Research: Conversation Analysis, Formal Semantics/Pragmatics, Logic, _okay_, Speech Act theory
