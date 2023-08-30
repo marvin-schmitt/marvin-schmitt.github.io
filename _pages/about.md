@@ -12,7 +12,7 @@ Welcome to my website! (under construction)
 
 News
 ======
-Poster presentation at SuB28 in Bochum! For the poster check the entry in Talks!
+Poster presentation at SuB28 in Bochum! You can [download the poster here](https://marvin-schmitt.github.io/files/sub28_poster_final) or check out the entry in _Talks_. 
 
 TL;DR
 ======
