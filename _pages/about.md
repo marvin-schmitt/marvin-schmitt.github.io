@@ -10,6 +10,10 @@ redirect_from:
 
 Welcome to my website! (under construction)
 
+News
+======
+Poster presentation at SuB28 in Bochum! For the poster check the entry in Talks!
+
 TL;DR
 ======
 Research: Conversation Analysis, Formal Semantics/Pragmatics, Logic, _okay_, Speech Act theory
@@ -37,7 +41,9 @@ In my research I am combining conversation analysis, logic, mathematics, and for
 Interests
 ------
 
-My interests are not limitted to formal semantics/pragmatics. Within linguistics, I am interested into theoretical questions of linguistics and formal semantics/pragmatics in particular, but also syntax. In syntax, I am particularly interested in formalisms and their underlying theory. Besides linguistics, I am generally interested into philosophy, with an emphasis on theoretical philosophy (i.e., metaphysics, epistemology, philosophy of mind, but excludes ethics, etc.). In my undergraduate studies, I studied philosophy from a broad perspectives of schools and authors. I was and am still particularly interested into the analytic tradition and the philosophy of Immanuel Kant. Another interest of mine is sociological theory and the sociology of knowledge. Authors I am especially interested in are classics such as Durkheim, Schütz, Weber, Marx, Habermas, Bourdieu, Goffman, Garfinkel, Simmel, etc. Of course, I am also interested into logic and mathematics. This interest is of a very general nature, and since time is limited, I am spending most of it to getting better in logic and mathematics. Currently I am studying Gibert Strang's _Introduction to Linear Algebra_. I am planning on doing a undergraduate degree in mathematics after my PhD thesis. 
+My interests are not limitted to formal semantics/pragmatics. Within linguistics, I am interested into theoretical questions of linguistics and formal semantics/pragmatics in particular, but also syntax. In syntax, I am particularly interested in formalisms and their underlying theory. Besides linguistics, I am generally interested into philosophy, with an emphasis on theoretical philosophy (i.e., metaphysics, epistemology, philosophy of mind, but excludes ethics, etc.). In my undergraduate studies, I studied philosophy from a broad perspectives of schools and authors. I was and am still particularly interested into the analytic tradition and the philosophy of Immanuel Kant. Another interest of mine is sociological theory and the sociology of knowledge. Authors I am especially interested in are classics such as Durkheim, Schütz, Weber, Marx, Habermas, Bourdieu, Goffman, Garfinkel, Simmel, etc. Of course, I am also interested into logic and mathematics. This interest is of a very general nature, and since time is limited, I am spending most of it to getting better in logic and mathematics. I am planning on doing a undergraduate degree in mathematics after my PhD thesis. 
+
+Currently studying: _A shorter model theory_ by Wilfrid Hodges
 
 My PhD thesis
 ======
